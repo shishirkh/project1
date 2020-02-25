@@ -6,5 +6,5 @@ if ! [[ "$START_LINE" =~ $PATTERN ]]; then
   echo "Bad commit message, see example: shishir-TASK_ID: commit message"
   exit 1
 fi
-
+dasi
 
